@@ -21,7 +21,7 @@ Lecture course given @LPI for 3rd year MIPT students in the spring semester 2019
 
 * [MIPTxYandex specialisation on Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis) - A must for beginners (imho). Free certificate for MIPT students (just send an email to mooc@phystech.edu), free enrollment for everyone
 
-* [Data Mining in Action](https://github.com/data-mining-in-action/) - ML course by Viktor Kantor (Yandex.Taxi) and co. Utterly amazing and highly recommended - just pick the track you like.
+* [Data Mining in Action](https://github.com/data-mining-in-action/) - ML course by Viktor Kantor (Yandex.Taxi) and co. Utterly amazing and highly recommended - just pick the track you like
 
 * [Deep Learning course book](http://www.deeplearningbook.org/) - a very broad and detailed explaination of DL
 
@@ -35,7 +35,7 @@ Lecture course given @LPI for 3rd year MIPT students in the spring semester 2019
 
 * [fast.ai](https://www.fast.ai/) more on nets
 
-* [articles on Medium](https://medium.com/topic/machine-learning) but beware, there are at times bad ones
+* [articles on Medium](https://medium.com/topic/machine-learning) but beware, there are at times not so good ones
 
 * links in the slides in this repo
 
