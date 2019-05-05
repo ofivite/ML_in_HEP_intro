@@ -19,18 +19,24 @@ Lecture course given @LPI for 3rd year MIPT students in the spring semester 2019
 
 * [Summer School on ML in HEP by HSExYandex](https://indico.cern.ch/event/687473/)
 
-* [MIPTxYandex specialisation on Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis) - A MUST. Free certificate for MIPT students (just send an email to mooc@phystech.edu), free enrollment for everyone
+* [MIPTxYandex specialisation on Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis) - A must for beginners (imho). Free certificate for MIPT students (just send an email to mooc@phystech.edu), free enrollment for everyone
 
-* [Data Mining in Action](https://vk.com/data_mining_in_action) - ML for those who never heard of it before. They've just started this semester classes so follow their github for lecture notes, seminars and even homeworks - it's all very fundamental and detailed. Highly recommended.
+* [Data Mining in Action](https://github.com/data-mining-in-action/) - ML course by Viktor Kantor (Yandex.Taxi) and co. Utterly amazing and highly recommended - just pick the track you like.
 
-* [Deep Learning course book](http://www.deeplearningbook.org/) - a really nice one on ML and DL (and it's free!)
+* [Deep Learning course book](http://www.deeplearningbook.org/) - a very broad and detailed explaination of DL
 
-* [DL course for HSE students](https://github.com/yandexdataschool/Practical_DL) - links, tutorials, lectures on neural networks - it's all there starting from basics
+* [DL course in Yandex School of Data Analysis](https://github.com/yandexdataschool/Practical_DL) - if you feel like you know the basics and want to go deeper
  
-* [Yandex School of Data Analysis](https://github.com/yandexdataschool/ - or more generally
+* [Yandex School of Data Analysis](https://github.com/yandexdataschool/) - or more generally
 
 * [LOTS OF LINKS](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie) - actually I could've put here just this one
 
-* [CNN from Stanford](http://cs231n.stanford.edu/) - a NN basics easily explained
+* [CNN from Stanford](http://cs231n.stanford.edu/) - probably a must on NN and CNN basics
+
+* [fast.ai](https://www.fast.ai/) more on nets
+
+* [articles on Medium](https://medium.com/topic/machine-learning) but beware, there are at times bad ones
+
+* links in the slides in this repo
 
 * and way more on the Internet (just google it in English)
