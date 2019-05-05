@@ -9,6 +9,8 @@ Lecture course given @LPI for 3rd year MIPT students in the spring semester 2019
 3.  Modern applications in HEP
 
 
+
+
 **Gateway to an ML world (to name a few):**
 
 * [HEP Community White Paper](https://arxiv.org/abs/1807.02876) - status overview of ML in HEP: what should be done, why and how
@@ -31,4 +33,4 @@ Lecture course given @LPI for 3rd year MIPT students in the spring semester 2019
 
 * [CNN from Stanford](http://cs231n.stanford.edu/) - a NN basics easily explained
 
-* and way more in the Internet (just google it in English)
+* and way more on the Internet (just google it in English)
