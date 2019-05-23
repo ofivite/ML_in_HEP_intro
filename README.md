@@ -28,6 +28,8 @@ Lecture course given @LPI for 3rd year MIPT students in the spring semester 2019
 * [Yandex School of Data Analysis](https://github.com/yandexdataschool/) - or more generally
 
 * [LOTS OF LINKS](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie) - actually I could've put here just this one
+ 
+* [LOTS OF MODELS](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle) - enormous summary-kernel 
 
 * [CNN from Stanford](http://cs231n.stanford.edu/) - probably a must on NN and CNN basics
 
