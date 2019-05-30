@@ -27,6 +27,8 @@ Lecture course given @LPI for 3rd year MIPT students in the spring semester 2019
  
 * [Yandex School of Data Analysis](https://github.com/yandexdataschool/) - or more generally
 
+* [dlschool](https://www.dlschool.org/) - proper course by MIPT students on ML+DL
+
 * [LOTS OF LINKS](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie) - actually I could've put here just this one
  
 * [LOTS OF MODELS](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle) - enormous summary-kernel 
