@@ -11,7 +11,7 @@ Lecture course given at Lebedev Physical Institute for 3rd year MIPT students in
 
 **Gateway to an ML world (to name a few):**
 
-<ins>NB</ins>: the links are as of 2019 year, many things have changed since then (also, some of the courses are in Russian)! And the list is definitely not a comprehensive overview - there is more out there;)
+<ins>NB</ins>: the links are as of 2019 year, many things have changed since then! Also, some of the courses are in Russian, and the list is definitely not a comprehensive overview of an ML world - there is more out there;)
 
 * [HEP Community White Paper](https://arxiv.org/abs/1807.02876) - status overview of ML in HEP: what should be done, why and how
 
