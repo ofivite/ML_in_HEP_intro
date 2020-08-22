@@ -27,7 +27,7 @@ Lecture course given at Lebedev Physical Institute for 3rd year MIPT students in
 
 * [ML @HSE](https://github.com/esokolov/ml-course-hse) - ML course at HSE  with very simple and intuitive flow
 
-* [ML@MIPT](https://ml-mipt.github.io/) - ML course for DS students @MIPT, very thorough, fundamental and yet detailed
+* [ML @MIPT](https://ml-mipt.github.io/) - ML course for DS students @MIPT, very thorough, fundamental and yet detailed
 
 * [Data Mining in Action](https://github.com/data-mining-in-action/) - ML course by Viktor Kantor and co. Amazing and highly recommended - just pick the track you like
 
