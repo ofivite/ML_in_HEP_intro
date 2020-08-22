@@ -1,43 +1,51 @@
-# Introduction to ML for HEP
+# Introduction to ML for High Energy Physics
 
 
-Lecture course given @LPI for 3rd year MIPT students in the spring semester 2019.
+Lecture course given at Lebedev Physical Institute for 3rd year MIPT students in the spring semester 2019.
 
 **Synopsis:**
-1.  Supervised/Unsupervised/RL, linear models, trees, metrics, overfitting, regularization, CV
+1.  Supervised/Unsupervised/RL, linear models, trees, metrics, overfitting, regularization, validation
 2.  Ensembles (Random Forest, BDT), Neural Networks, CNN, RNN
 3.  Modern applications in HEP
 
 
 **Gateway to an ML world (to name a few):**
 
+<ins>NB</ins>: the links are as of 2019 year, many things have changed since then (also, some of the courses are in Russian)! And the list is definitely not a comprehensive overview - there is more out there;)
+
 * [HEP Community White Paper](https://arxiv.org/abs/1807.02876) - status overview of ML in HEP: what should be done, why and how
 
 * [IML @LHC](https://iml.web.cern.ch) - community of data scientists at LHC. They do open meeting each month!
 
-* [Summer School on ML in HEP by HSExYandex](https://indico.cern.ch/event/687473/)
+* [IML github](https://github.com/iml-wg) - and their git page with plenty of useful links on ML and its applications in HEP
+
+* [Summer School on ML in HEP](https://indico.cern.ch/event/768915/)
+
+* [ML in HEP on Coursera](https://www.coursera.org/learn/hadron-collider-machine-learning#%20) HSE Lambda's course on ML applications in HEP
 
 * [MIPTxYandex specialisation on Coursera](https://www.coursera.org/specializations/machine-learning-data-analysis) - A must for beginners (imho). Free certificate for MIPT students (just send an email to mooc@phystech.edu), free enrollment for everyone
 
-* [Data Mining in Action](https://github.com/data-mining-in-action/) - ML course by Viktor Kantor (Yandex.Taxi) and co. Utterly amazing and highly recommended - just pick the track you like
+* [ML @HSE](https://github.com/esokolov/ml-course-hse) - ML course at HSE  with very simple and intuitive flow
 
-* [Deep Learning course book](http://www.deeplearningbook.org/) - a very broad and detailed explaination of DL
+* [ML@MIPT](https://ml-mipt.github.io/) - ML course for DS students @MIPT, very thorough, fundamental and yet detailed
+
+* [Data Mining in Action](https://github.com/data-mining-in-action/) - ML course by Viktor Kantor and co. Amazing and highly recommended - just pick the track you like
 
 * [DL course in Yandex School of Data Analysis](https://github.com/yandexdataschool/Practical_DL) - if you feel like you know the basics and want to go deeper
  
-* [Yandex School of Data Analysis](https://github.com/yandexdataschool/) - or more generally
+* [Yandex School of Data Analysis](https://github.com/yandexdataschool/) - or go deeper in general
 
-* [dlschool](https://www.dlschool.org/) - proper course by MIPT students on ML+DL
+* [Deep Learning course book](http://www.deeplearningbook.org/) - a very broad and detailed explaination of DL
 
-* [LOTS OF LINKS](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie) - actually I could've put here just this one
- 
-* [LOTS OF MODELS](https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle) - enormous summary-kernel 
+* [Interpretable ML](https://christophm.github.io/interpretable-ml-book/) a neat summary book of how one can interpret ML models
+
+* [LINKS](https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie) - lots of them!
 
 * [CNN from Stanford](http://cs231n.stanford.edu/) - probably a must on NN and CNN basics
 
-* [fast.ai](https://www.fast.ai/) - more on nets
+* [fast.ai](https://www.fast.ai/) - more on DL
 
-* [articles on Medium](https://medium.com/topic/machine-learning) - but beware, there are at times not so good ones
+* [articles on Medium](https://medium.com/topic/machine-learning) - but beware, there are at times not that good ones
 
 * links in the slides from this repo
 
