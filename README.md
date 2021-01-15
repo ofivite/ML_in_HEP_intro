@@ -1,7 +1,7 @@
 # Introduction to ML for High Energy Physics
 
 
-## **UPDATE:** this course has been upgraded! Please, have a look at its new version [here](https://github.com/ml-lpi/ml-lpi)
+## **UPDATE:** this course has been upgraded! Feel free to have a look at its new version [here](https://github.com/ml-lpi/ml-lpi)
 
 
 
